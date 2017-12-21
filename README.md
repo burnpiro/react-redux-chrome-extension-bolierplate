@@ -1,4 +1,4 @@
-Bitbay Tracker - extension
+React redux chrome extension boilerplate - extension
 ---------------------------
 
 [![node](https://img.shields.io/badge/node-8.9.x-brightgreen.svg)]()

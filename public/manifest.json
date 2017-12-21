@@ -1,12 +1,15 @@
 {
   "manifest_version": 2,
-  "short_name": "Bitbay tracker",
-  "name": "Bitbay tracker",
+  "short_name": "React redux chrome extension boilerplate",
+  "name": "React redux chrome extension boilerplate",
   "author": "Kemal Erdem",
   "version": "1.0",
   "browser_action": {
     "default_icon": "icon.png",
     "default_popup": "index.html"
+  },
+  "background": {
+    "scripts": ["background.js"]
   },
   "icons": {
     "128": "icon.png"
