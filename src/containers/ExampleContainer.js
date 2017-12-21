@@ -8,6 +8,7 @@ const mapStateToProps = state => {
   }
 }
 
+// You can use {setExampleData} instead of mapDispatchToProps
 const mapDispatchToProps = dispatch => {
   return {
     setExampleData: (data) => {
