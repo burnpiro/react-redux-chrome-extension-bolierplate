@@ -1,4 +1,4 @@
-const EXAMPLE_ACTION = 'EXAMPLE_CATION'
+const EXAMPLE_ACTION = 'EXAMPLE_ACTION'
 
 const setExampleData = (data) => {
   return {

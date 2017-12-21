@@ -10,8 +10,8 @@ const mapStateToProps = state => {
 
 const mapDispatchToProps = dispatch => {
   return {
-    setExampleData: () => {
-      dispatch(setExampleData())
+    setExampleData: (data) => {
+      dispatch(setExampleData(data))
     }
   }
 }
